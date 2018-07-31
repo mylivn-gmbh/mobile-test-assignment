@@ -17,5 +17,8 @@ https://thecatapi.com/api/images/get?format=src&size=med&type=jpg,png
 ### Technical restrictions: 
 No 3rd party libraries for performing these operations with images are allowed - you should do it by yourself. However, if you want to use some frameworks for dependency injection or reactive programming - it’s up to you.
 
+### Quality
+The purpose of this test assignment is to check you real-world skills in developing mobile applications. When we review applicant's solution, we expect to see production ready code, which does not break in any real-world scenario (handles all important corner cases). Ability to predict corner cases for the problem an applicant solves is one of the most important engineering skills that we check. Unfortunately, it is not always possible to approximate skills of an applicant based on incomplete or crashing application.
+
 ### Visual example:
 ![](https://raw.githubusercontent.com/mylivn-gmbh/mobile-test-assignment/master/assets/cat.gif)
