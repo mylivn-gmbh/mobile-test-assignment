@@ -2,7 +2,7 @@
 
 ### Summary
 
-You need to implement an image loading library for user avatars. Implement as many of these requirements as you can given the time you allow yourself to have. 
+You need to implement an image loading library for user avatars. Implement as many of these requirements as you can be given the time you allow yourself to have. 
 
 ### Minimum requirements:
 Your avatar loading class should provide an interface for load image by URL string. It should be supported by an optional placeholder, showing it during the loading process. The loading progress should be shown in the form of a colored border around the image.
@@ -18,6 +18,13 @@ No 3rd party libraries for performing these operations with images are allowed -
 
 ### Quality
 The purpose of this test assignment is to check applicant's real-world skills in developing mobile applications. When we review applicant's solution, we expect to see production ready code, which does not break in any real-world scenario (handles all important corner cases). Ability to predict corner cases for the problem an applicant solves is one of the most important engineering skills that we check. Unfortunately, it is not always possible to approximate skills of an applicant based on incomplete or crashing application.
+
+### Submission
+After you finished your test assignment, please send us a link to download it to hr@mylivn.com. Please do not put your solution to any publicly available place on the internet (like GitHub, BitBucket). Best way to share files with us is to put them to any private cloud storage and provide us a public link.
+Also please provide a short description containing:
+* How to build and run your application
+* Short description of your solution
+* Assumptions you made while planning and structuring your solution
 
 ### Visual example:
 ![](https://raw.githubusercontent.com/mylivn-gmbh/mobile-test-assignment/master/assets/cat.gif)
