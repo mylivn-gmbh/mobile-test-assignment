@@ -16,7 +16,7 @@ According to our application, users will see the feed immediately after logging 
 
 1. Fetch the data from the REST API: developer.marvel.com.
 2. The top component of feed should have horizontal scroll direction and support loading page by page. This component should show Marvel heroes with their names and images. Tapping on hero should load proper information in the bottom component.
-3. The bottom component of the feed should have vertical scroll direction and support loading page by page. This component should show all comics where this hero has participated.
+3. The bottom component of the feed should have vertical scroll direction and support loading page by page. This component should show all comics with their descriptions where this hero has participated.
 4. For visual inspiration, you can refer to our Mylivn application.
 
 ### Details:
@@ -24,6 +24,7 @@ According to our application, users will see the feed immediately after logging 
 1. Load data only once a day and store it for offline use. Use Codable to encode/decode the data.
 2. If data can't be loaded but offline data is available from a previous day, use that cached data.
 3. UI should look nice for any device.
+4. App should only support vertical orientation.
 4. No iPad support needed.
 5. You can choose the architecture which you familiar with.
 6. The app should be production-ready. It means that UI should be polished and performance should be optimized.
@@ -44,3 +45,6 @@ Also please provide a short description containing:
 * How to build and run your application
 * Short description of your solution
 * Assumptions you made while planning and structuring your solution
+
+### Visual example:
+![](https://raw.githubusercontent.com/mylivn-gmbh/mobile-test-assignment/master/assets/Example.png)
