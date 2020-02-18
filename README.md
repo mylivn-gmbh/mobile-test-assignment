@@ -15,7 +15,7 @@ According to our application, users will see the feed immediately after logging 
 ### High-level requirements:
 
 1. Fetch the data from the REST API: developer.marvel.com.
-2. The top component of feed should have horizontal scroll direction and support loading page by page. This component should show Marvel heroes with their names and images. Tapping on hero should load proper information in the bottom component.
+2. The top component of feed should have horizontal scroll direction and support loading page by page. This component should show Marvel heroes with their names and images. Tapping on hero should load proper information in the bottom component. By default first character should be selected.
 3. The bottom component of the feed should have vertical scroll direction and support loading page by page. This component should show all comics with their descriptions where this hero has participated.
 4. For visual inspiration, you can refer to our Mylivn application.
 
